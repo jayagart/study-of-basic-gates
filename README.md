@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### NAME: JAYAGAR
+### REG NO: 24901219
+### EXPERIMENT 1 - study of basic gates
 
 **AIM:** 
 
@@ -64,7 +66,18 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ### Program for logic gates and verify its truth table in quartus using Verilog programming
+### module logicgates(a,b,notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate);
+### input a,b;
+### output notgate,andgate,orgate,nandgate,norgate,xorgate,xnorgate;
+### not(notgate,a);
+### and(andgate,a,b);
+### or(orgate,a,b);
+### nand(nandgate,a,b);
+### nor(norgate,a,b);
+### xor(xorgate,a,b);
+### xnor(xnorgate,a,b);
+### endmodule
 
  Developed by: RegisterNumber: 
  
