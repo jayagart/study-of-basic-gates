@@ -86,16 +86,12 @@ Y= A⊕B
 
 
 # RTL OUTPUT
-
-
 ![Screenshot 2024-10-24 144438](https://github.com/user-attachments/assets/917665ec-0f26-4072-a5a6-935b1022d164)
 
 
 
 
 # OUTPUT WAVEFORM
-
-
 ![Screenshot 2024-10-24 144759](https://github.com/user-attachments/assets/cb82a4b5-590a-4d44-94be-fa978ec2e6e8)
 
 
