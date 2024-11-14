@@ -82,19 +82,21 @@ Y= A⊕B
  
  
 # LOGIC SYMBOL AND TRUTH TABLE
-![WhatsApp Image 2024-10-24 at 22 45 15_7769288c](https://github.com/user-attachments/assets/f2737a52-4565-43cf-9f71-76949e2de174)
+![WhatsApp Image 2024-10-23 at 22 45 04_60cedc7f](https://github.com/user-attachments/assets/180dab2f-3d28-4f06-9f99-8bf07a464d53)
 
 
 # RTL OUTPUT
-![Screenshot 2024-10-24 144759](https://github.com/user-attachments/assets/cb82a4b5-590a-4d44-94be-fa978ec2e6e8)
 
 
+![Screenshot 2024-10-24 144438](https://github.com/user-attachments/assets/917665ec-0f26-4072-a5a6-935b1022d164)
 
 
 
 
 # OUTPUT WAVEFORM
-![Screenshot 2024-10-24 144438](https://github.com/user-attachments/assets/917665ec-0f26-4072-a5a6-935b1022d164)
+
+
+![Screenshot 2024-10-24 144759](https://github.com/user-attachments/assets/cb82a4b5-590a-4d44-94be-fa978ec2e6e8)
 
 
 
