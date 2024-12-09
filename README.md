@@ -1,5 +1,5 @@
-### NAME: jayagart
-### REG NO: 24901219
+# NAME: jayagar.T
+# REG NO: 24901219
 # EXPERIMENT 1 - study of basic gates
 
 # AIM
