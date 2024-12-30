@@ -1,4 +1,4 @@
-## NAME: jayagar.T
+## NAME: Jayagar.T
 ## REG NO: 24901219
 # EXPERIMENT 1 - Study of basic gates
 
